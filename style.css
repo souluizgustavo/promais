@@ -52,7 +52,7 @@ nav a:hover{
 .banner{
     display: flex;
     justify-content: center;
-    background-image: url(/Images/pexels-radu-florin-2536579.jpg);
+    background-image: url(https://github.com/souluizgustavo/promais/blob/main/Images/pexels-radu-florin-2536579.jpg);
     background-position: center;
     background-size: cover;
     height: 650px;
