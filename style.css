@@ -52,7 +52,7 @@ nav a:hover{
 .banner{
     display: flex;
     justify-content: center;
-    background-image: url(https://github.com/souluizgustavo/promais/blob/main/Images/pexels-radu-florin-2536579.jpg);
+    background-image: url(./Images/pexels-radu-florin-2536579.jpg);
     background-position: center;
     background-size: cover;
     height: 650px;
@@ -231,43 +231,43 @@ article .news-resume{
     
 }
 .bloco-1{
-    background: url(/Images/Domicialiar.png);
+    background: url(./Images/Domicialiar.png);
     background-size: cover;
 }
 .bloco-2{
-    background: url(/Images/Consulta-online.jpg);
+    background: url(./Images/Consulta-online.jpg);
     background-size: cover;
 }
 .bloco-3{
-    background: url(/Images/Especialidades.png);
+    background: url(./Images/Especialidades.png);
     background-size: cover;
 }
 .bloco-4{
-    background: url(/Images/exames-gerais.png);
+    background: url(./Images/exames-gerais.png);
     background-size: cover;
 }
 .bloco-5{
-    background: url(/Images/convenio.png);
+    background: url(./Images/convenio.png);
     background-size: cover;
 }
 .bloco-6{
-    background: url(/Images/medicina-curso.png);
+    background: url(./Images/medicina-curso.png);
     background-size: cover;
 }
 .bloco-7{
-    background: url(/Images/Agendamento.png);
+    background: url(./Images/Agendamento.png);
     background-size: cover;
 }
 .bloco-8{
-    background: url(/Images/alimentacao-e-saude.png);
+    background: url(./Images/alimentacao-e-saude.png);
     background-size: cover;
 }
 .bloco-9{
-    background: url(/Images/visitantes.png);
+    background: url(./Images/visitantes.png);
     background-size: cover;
 }
 .bloco-10{
-    background: url(/Images/unidades.png);
+    background: url(./Images/unidades.png);
     background-size: cover;
 }
 footer{
